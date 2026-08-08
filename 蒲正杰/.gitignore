@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Kimi Code CLI
+.kimi-code/
+!.kimi-code/mcp.json.template
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary test outputs
+mcp_tools_list.json
+temp/
+
+# Reference PDFs extracted text backups (optional, keep docs/reference/ tracked)
+# docs/reference/*.txt
