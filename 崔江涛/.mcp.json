@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "esp32-piano": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["toolchain/mcp_server.py"],
+      "cwd": "C:\\Users\\notch\\Desktop\\ESP32-AI-Piano"
+    }
+  }
+}
